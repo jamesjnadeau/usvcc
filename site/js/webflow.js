@@ -714,7 +714,7 @@
 	 */
 
 	var Webflow = __webpack_require__(1);
-
+/*
 	Webflow.define('brand', module.exports = function($) {
 	  var api = {};
 	  var $html = $('html');
@@ -781,7 +781,7 @@
 	  // Export module
 	  return api;
 	});
-
+*/
 
 /***/ },
 /* 7 */
